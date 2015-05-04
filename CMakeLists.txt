@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 2.8)
 
 project(dep0)
 
+set(CMAKE_MODULE_PATH ${proj0_SOURCE_DIR}/cmake)
+
 set(SOURCES dep0.cpp)
 set(HEADERS dep0.h)
 
