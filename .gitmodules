@@ -1,3 +1,3 @@
 [submodule "cmake"]
 	path = cmake
-	url = git@github.com:lavcraft/cmake-dependency-cmake.git
+	url = git@git.agat:demo-0/dep-0.git
